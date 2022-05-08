@@ -1,4 +1,5 @@
 # CS3214-Project-4
+A 64-bit Memory Allocator
 
 The goal of the project is to build a small personal web server that can serve files, stream
 MP4 video, and provides a simple token-based authentication API.
